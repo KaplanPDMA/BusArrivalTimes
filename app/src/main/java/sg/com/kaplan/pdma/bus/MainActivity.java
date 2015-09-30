@@ -34,8 +34,9 @@ import java.util.TimeZone;
 
 public class MainActivity extends AppCompatActivity {
 
-    private final String AccountKey = "7evO9Vgev+o4awPV1Cuizw==";
-    private final String UniqueUserID = "5b1ccfa7-0f8a-4ed1-8ea7-a0da478ea907";
+    //please obtain your account key from http://www.mytransport.sg/content/mytransport/home/dataMall.html 
+    private final String AccountKey = "";
+    private final String UniqueUserID = "";
 
     private Context context = this;
     EditText editText;
